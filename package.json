@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Sistema de facturación y gestión para JCR Telecomunicaciones",
-"engines": {
+  "engines": {
     "node": "22.22.0"
-  }
+  },
   "scripts": {"start":"node server.js"},
   "dependencies": {
     "express":"^4.21.2",
